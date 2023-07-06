@@ -1,5 +1,5 @@
 const ciudadDestino = 'Bogotá';
-const ciudadesDisponibles = new Array("Bogotá","Lima","Santiago","Montevideo");
+    const ciudadesDisponibles = new Array("Bogotá","Lima","Santiago","Montevideo");
 
 let valorPasaje = 0;
 
