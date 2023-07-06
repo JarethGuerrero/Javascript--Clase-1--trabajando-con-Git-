@@ -35,5 +35,5 @@ console.log(`Verificando pasajes para: ${ciudadDestino}`);
     if (valorPasaje != 0) {
         console.log(`El valor del pasaje es de $${valorPasaje}`);
     }
-   // console.log(`El valor del pasaje es de $${valorPasaje}`);
+     console.log(`El valor del pasaje es de $${valorPasaje}`);
 
