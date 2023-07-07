@@ -12,6 +12,15 @@
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}\\14-Lazos2.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "15-Lazos3.js",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\15-Lazos3.js"
         }
     ]
 }
